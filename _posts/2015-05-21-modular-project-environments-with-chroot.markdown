@@ -4,6 +4,7 @@ title:  "Modular Project Environments With Chroot"
 date:   2015-05-21 22:05:44
 categories: projects
 permalink: /modular-project-environments-with-chroot/
+excerpt: Work conveniently on multiple projects by isolating project environments within chroot jails
 ---
 
 Wouldn't it be nice to have all your project files and dependencies in one neat little package?
