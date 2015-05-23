@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a full-stack developer now, I was a graphics and game developer 5 years back.
+I like solving difficult problems through code.
 
-I am a nomad at heart, love remote work, enjoy music, food and finding unique shoes.
+I am a minimalist, nomad at heart, love remote work, enjoy music, food and finding unique shoes.
 
 I love startups, especially bootstrappers.
 
@@ -15,7 +15,7 @@ I run [Radio Flote](http://radioflote.com) with money from my projects and money
 Stuff I've enjoyed coding:
 
 - Business Phone feature for [Call Hub](https://callhub.io)
-- Http Live Streaming client on javascript based on [aurora.js](https://github.com/audiocogs/aurora.js/)
+- Http Live Streaming with javascript based on [aurora.js](https://github.com/audiocogs/aurora.js/)
 - A node.js module to convert HTML to Evernote ENML - [node-html2enml](https://github.com/bitonator/node-html2enml)
 - Scrimmage Scramble for NFL Rushzone
 - [Iron Grip - The Oppression](http://www.moddb.com/mods/iron-grip-the-oppression), an award-winning Half Life 2 Mod
