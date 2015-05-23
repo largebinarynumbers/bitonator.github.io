@@ -3,6 +3,7 @@ layout: post
 title:  "Modular Project Environments With Chroot"
 date:   2015-05-21 22:05:44
 categories: projects
+permalink: /modular-project-environments-with-chroot/
 ---
 
 Wouldn't it be nice to have all your project files and dependencies in one neat little package?
