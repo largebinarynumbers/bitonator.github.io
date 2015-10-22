@@ -15,3 +15,5 @@ Flying virtual planes on Flightgear, the Piper Seneca II is my current favorite
 Pondering writing a blog post on demystifying Amazon Web Console for newbies. 
 
 "Monthly get away from the madness" vacation long overdue.
+
+Why did I write this page? Because -> (The /now page movement)[https://sivers.org/nowff]
