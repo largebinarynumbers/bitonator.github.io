@@ -3,7 +3,7 @@ layout: post
 title:  "Caveats and Tips for New Amazon EC2 Users"
 date:   2015-05-21 22:05:44
 categories: projects
-permalink: /modular-project-environments-with-chroot/
+permalink: /caveats-and-tops-for-new-aws-ec2-users/
 excerpt: some gotchas and some tips to help you get around Amazon AWS services easily
 ---
 

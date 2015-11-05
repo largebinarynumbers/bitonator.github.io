@@ -10,7 +10,7 @@ Beta launched [https://chrome.google.com/webstore/detail/fetch/epiecjeiaoapmbpjb
 
 Working on a photo sharing app that ranks popularity by engagement rather than likes or shares.
 
-Wrote a (https://bitonator.github.io/caveats-and-tips-for-new-aws-ec2-users.markdown)[blog post] on demystifying Amazon Web Console for newbies. 
+Wrote a (https://bitonator.github.io/caveats-and-tops-for-new-aws-ec2-users/)[blog post] on demystifying Amazon Web Console for newbies. 
 
 Flying virtual planes on Flightgear, the Piper Seneca II is my current favorite.
 
