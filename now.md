@@ -6,11 +6,11 @@ permalink: /now/
 
 Updated 22nd October, 2015
 
-Beta launched [https://chrome.google.com/webstore/detail/fetch/epiecjeiaoapmbpjbelenefijpadjlkj](Fetch), an extension for Chrome that makes it super easy to find links you've previously visited.
+Beta launched [Fetch](https://chrome.google.com/webstore/detail/fetch/epiecjeiaoapmbpjbelenefijpadjlkj), an extension for Chrome that makes it super easy to find links you've previously visited.
 
 Working on a photo sharing app that ranks popularity by engagement rather than likes or shares.
 
-Wrote a (https://bitonator.github.io/caveats-and-tops-for-new-aws-ec2-users/)[blog post] on demystifying Amazon Web Console for newbies. 
+Wrote a [blog post](https://bitonator.github.io/caveats-and-tops-for-new-aws-ec2-users/) on demystifying Amazon Web Console for newbies. 
 
 Flying virtual planes on Flightgear, the Piper Seneca II is my current favorite.
 
