@@ -6,7 +6,7 @@ permalink: /now/
 
 Updated 11 November, 2015
 
-Beta launched [Fetch](https://chrome.google.com/webstore/detail/fetch/epiecjeiaoapmbpjbelenefijpadjlkj), an extension for Chrome that makes it super easy to find links you've previously visited.
+Beta launched [Fetch](https://getfetch.net), an extension for Chrome that makes it super easy to find links you've previously visited.
 
 Working on a photo sharing app that ranks popularity by engagement rather than likes or shares.
 
