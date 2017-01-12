@@ -35,7 +35,7 @@ I'll build my models first, then a manager layer that handles all the business l
 
 Then I'll build my controller which will focus on stuff like authenticating the requests, parsing parameters and so on.
 
-This new layer, I'm calling a `manager` since the words manager and business-logic ironically go together.
+This new layer, I'm calling a `manager` since the words manager and business-logic seem to go together.
 
 Hence the name, MVMC, or Model-View-Manager-Controller architecture.
 
