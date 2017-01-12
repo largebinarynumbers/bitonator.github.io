@@ -35,9 +35,9 @@ I'll build my models first, then a manager layer that handles all the business l
 
 Then I'll build my controller which will focus on stuff like authenticating the requests, parsing parameters and so on.
 
-Just to show off that I've come up with this (ahem!) brilliant plan, I'm giving myself a spot right next to MVC, and calling this architecture pattern, the Model-View-Manager-Controller architecture :P
+This new layer, I'm calling a `manager` since the words manager and business-logic ironically go together.
 
-Just kidding, I'm just trying to help fellow devs out here.
+Hence the name, MVMC, or Model-View-Manager-Controller architecture.
 
 Give it a shot in your next project and let me know what you think.
 
