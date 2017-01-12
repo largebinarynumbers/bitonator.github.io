@@ -7,6 +7,8 @@ permalink: /mvmc-model-view-manager-controller-architecture/
 excerpt: An architecture pattern for building REST APIs with room for reusable business-logic
 ---
 
+![The MVMC Architecture Pattern]({{ site.url }}/_images/MVMC.png)
+
 I've built a lot of applications using the MVC architecture pattern. When an application starts getting messy, its pretty much what comes to the rescue, and once the layers are seperated, a lot of the code falls into place.
 
 But I've been consistently seeing a pattern emerge out of all the projects I've built.
