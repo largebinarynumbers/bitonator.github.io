@@ -41,4 +41,4 @@ Just kidding, I'm just trying to help fellow devs out here.
 
 Give it a shot in your next project and let me know what you think.
 
-I think you'll find it useful, because I've already used it in two projects and benefitted king-size ;)
+I think you'll find it useful, because I've already used it in two projects and benefitted a lot from it.
