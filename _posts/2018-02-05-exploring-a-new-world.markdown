@@ -19,6 +19,6 @@ I strongly believe that the world is in the threshold of fundamental changes in 
 
 Borders are becoming less and less important and overall skill and value are gaining more importance everyday.
 
-As a person who worked hard on my skills and someone who's never stopped learning new things. I'm very keen on working on challenges that can really use my potiental to the fullest.
+As a person who worked hard on my skills and someone who's never stopped learning new things. I'm very keen on working on challenges that can really use my potiental to the fullest, regardless of where I am in the world.
 
 I really hope that I make it through to [Toptal](https://www.toptal.com), I'm preparing hard for it, fingers crossed, wish me luck!
