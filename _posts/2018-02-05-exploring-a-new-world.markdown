@@ -13,7 +13,7 @@ I've done a lot of interesting work since then, but, I've always met with resist
 
 Deep down, I really want to unshackle myself from the concept of a job. And as part of that effort, I'm doing two things - experimenting with a few simple products I've built and switching from job mode to consultancy mode. I have a couple of consulting gigs, but I really want to push the edge on this one and find projects that the best of the best are doing.
 
-Thats why I'm registering for the [Toptal web developer network](https://www.toptal.com/web). I know its crazy that they select only 3% of the applicants, but I'm hoping that the amount I've disrupted myself so far gets me through the qualification for them. 
+Thats why I'm registering for the [Toptal web developers Network](https://www.toptal.com/web). I know its crazy that they select only 3% of the applicants, but I'm hoping that the amount I've disrupted myself so far gets me through the qualification for them. 
 
 I strongly believe that the world is in the threshold of fundamental changes in the way we communicate, work and engage.
 
